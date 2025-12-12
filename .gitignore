@@ -1,0 +1,20 @@
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Build directories
+target/
+project/target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/settings.json
+
+# Metals
+.metals/
+
+# OS files
+.DS_Store
+Thumbs.db
